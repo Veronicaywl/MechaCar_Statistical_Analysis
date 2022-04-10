@@ -59,4 +59,4 @@ Collect data from all manufactorers in the last 5 years.
 - Ha: MechaCar has a over/under estimate hedging value based on the performance of all key factors of its genre.
 
 ### Statistical test to test the hypothesis
-I will use two-sample t-test to observed the first hand market price and second hand market price to compute the hedging value. I may also use multiple linear regression to demostrate the relationship between car performance and the selling price. 
+I will use two-sample t-test to observed the first hand market price and second hand market price to compute the hedging value. I may also use multiple linear regression to demostrate the relationship between car performance and the selling price. When the result returns, we can analysis the MechaCar's hedging value. 
